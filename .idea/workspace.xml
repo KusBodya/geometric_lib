@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc6805f4-dec7-42b8-b9ba-6ce313d95b05" name="Changes" comment="Fixed files and docs.md">
-      <change afterPath="$PROJECT_DIR$/docs/img.png" afterDir="false" />
-    </list>
+    <list default="true" id="cc6805f4-dec7-42b8-b9ba-6ce313d95b05" name="Changes" comment="Fixed files and docs.md" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,6 +79,7 @@
       <workItem from="1696891168214" duration="2000" />
       <workItem from="1697099864455" duration="3142000" />
       <workItem from="1697103396912" duration="5000" />
+      <workItem from="1697103957668" duration="85000" />
     </task>
     <task id="LOCAL-00001" summary="Fixed files and docs.md">
       <option name="closed" value="true" />
@@ -98,6 +97,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lab_2" />
+    <MESSAGE value="Fixed all files and md file" />
     <MESSAGE value="Fixed files and docs.md" />
     <option name="LAST_COMMIT_MESSAGE" value="Fixed files and docs.md" />
   </component>
