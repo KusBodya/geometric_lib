@@ -130,7 +130,7 @@
       >>>perimeter(0.5,1.15,1,2)
       2.85
 ```
-
+ 
 # Hashes
 ```
 commit d72c2cbf45d23d408c8ecbd3948555b4caa94cb7 (HEAD -> main, origin/main, origin/HEAD)
@@ -162,5 +162,4 @@ Author: KusBodya <143806202+KusBodya@users.noreply.github.com>
 Date:   Thu Sep 14 14:26:14 2023 +0300
 
     new file added
-
 ```
